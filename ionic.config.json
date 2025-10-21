@@ -1,0 +1,7 @@
+{
+  "name": "Eva_Josuealban",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
